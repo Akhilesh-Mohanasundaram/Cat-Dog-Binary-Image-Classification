@@ -8,6 +8,14 @@ You can check the detailed explanation on the article I wrote in Towards Data Sc
 
 Without going into too much detail, this project consists of 4 major parts :
 
+You can check the detailed explanation in the article I wrote on Towards Data Science here.
+
+This project consists of 3 major parts:
+
+Build model: VGG19
+Create API: Flask
+Containerize: Docker
+
 ## Build model : VGG19
 
 I've used use a pretrained (and effective) Convolutional Neural Network model for image classification : [VGG-19](https://arxiv.org/abs/1409.1556).
@@ -52,6 +60,14 @@ Once this is running, you should be able to view your app running in your browse
 ```
 http://localhost:5000/upload
 ```
+## Demo Video
+
+
+https://github.com/Akhilesh-Mohanasundaram/Cat-Dog-Binary-Image-Classification/assets/165802240/19157559-5021-4e16-8da2-96a583903522
+
+
+
+https://github.com/Akhilesh-Mohanasundaram/Cat-Dog-Binary-Image-Classification/assets/165802240/19c27de3-fb41-4b57-b014-9e2e1d00b9e0
 
 # Contact
 
