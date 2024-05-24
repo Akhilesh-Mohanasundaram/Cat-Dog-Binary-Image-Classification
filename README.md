@@ -62,12 +62,7 @@ http://localhost:5000/upload
 ```
 ## Demo Video
 
-
 https://github.com/Akhilesh-Mohanasundaram/Cat-Dog-Binary-Image-Classification/assets/165802240/19157559-5021-4e16-8da2-96a583903522
-
-
-
-https://github.com/Akhilesh-Mohanasundaram/Cat-Dog-Binary-Image-Classification/assets/165802240/19c27de3-fb41-4b57-b014-9e2e1d00b9e0
 
 # Contact
 
